@@ -164,6 +164,21 @@ The naming convention is as follows (version numbers change with updates). Pleas
 
 ---
 
+## License & Citation / 授權與引用
+
+本作品採用 **Creative Commons Attribution 4.0 International (CC BY 4.0)** 授權。  
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+你可以使用、分享、修改本內容，但必須：
+- 標明原作者姓名
+- 提供原始來源連結（DOI 或本倉庫）
+- 註明是否有修改
+
+You are free to share and adapt this material for any purpose, even commercially, provided that you:
+- Give appropriate credit to the author
+- Provide a link to the license
+- Indicate if changes were made
+
 ## Citation / 引用
 
 ```bibtex
